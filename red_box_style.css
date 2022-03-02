@@ -1,0 +1,19 @@
+
+.box{
+    width: 20%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 400;
+    font-size: large;
+    text-align: center;
+    color: transparent;
+    background: red;
+    padding: 120px 20px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.box:hover{
+    color: white;
+}
